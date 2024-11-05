@@ -96,6 +96,9 @@ confusion_m = confusion_matrix(y_test, y_pred)
 from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(y_test, y_pred)
 
+# Next predict this output accuracy score using lemmatization & Tf-IDF model
+# Also read naiv bayas Theorem & Confusion matrix 
+
 
 
 
